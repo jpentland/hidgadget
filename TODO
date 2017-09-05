@@ -1,0 +1,11 @@
+Things still to do:
+
+* Add support for other USB HID devices than Keyboard
+
+* Split out keyboard functionality into keyboard-specific file with own keyboard object
+
+* Decide whether to use internal 'worker' threads and if not, remove the existing one.
+
+* Better use of testing framework
+
+* Improve documentation
